@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/framemark",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frame HTML/Markdown mark fragments safely for docs pipelines.",
+  "bin": {
+    "framemark": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/framemark.git"
+  },
+  "homepage": "https://theworker02.github.io/framemark/",
+  "keywords": [
+    "frame",
+    "mark",
+    "markup",
+    "cli",
+    "toolkit"
+  ]
+}
